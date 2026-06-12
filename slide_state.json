@@ -2,8 +2,8 @@
   "project_info": {
     "title": "觀光業的小舟",
     "created": 1781284596.029,
-    "last_updated": 1781295461.846,
-    "total_slides": 15
+    "last_updated": 1781295877.086,
+    "total_slides": 16
   },
   "slides": [
     {
@@ -52,34 +52,39 @@
       "pageNum": 9
     },
     {
-      "id": "slide_10",
+      "id": "slide_wowalink_saas",
       "state": "edited",
       "pageNum": 10
     },
     {
-      "id": "slide_11",
+      "id": "slide_10",
       "state": "edited",
       "pageNum": 11
     },
     {
-      "id": "slide_12",
+      "id": "slide_11",
       "state": "edited",
       "pageNum": 12
     },
     {
-      "id": "slide_13",
+      "id": "slide_12",
       "state": "edited",
       "pageNum": 13
     },
     {
-      "id": "slide_14",
+      "id": "slide_13",
       "state": "edited",
       "pageNum": 14
     },
     {
-      "id": "slide_15",
+      "id": "slide_14",
       "state": "edited",
       "pageNum": 15
+    },
+    {
+      "id": "slide_15",
+      "state": "edited",
+      "pageNum": 16
     }
   ],
   "outline": [
@@ -136,6 +141,11 @@
       "title": "AI-MARTECH時代：智能化的必然",
       "summary": "說明2023年後AI如何改變觀光行銷，包括客戶分群與個性化推薦、智能客服、動態定價與內容生成，並分享實際成效。",
       "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_wowalink_saas",
+      "title": "wowalink.com：一站式旅遊行銷 SaaS 平台",
+      "summary": "介紹 wowalink 的完整 SaaS 系統架構，展示其 30+ 強大功能模組，並特別著重旅遊模組的獨特價值與政府補助。"
     },
     {
       "id": "slide_10",
