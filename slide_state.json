@@ -1,0 +1,177 @@
+{
+  "project_info": {
+    "title": "觀光業的小舟",
+    "created": 1781284596.029,
+    "last_updated": 1781285915.245,
+    "total_slides": 15
+  },
+  "slides": [
+    {
+      "id": "slide_1",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "slide_2",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "slide_3",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "slide_4",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "slide_5",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "slide_6",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "slide_7",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "slide_8",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "slide_9",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "slide_10",
+      "state": "edited",
+      "pageNum": 10
+    },
+    {
+      "id": "slide_11",
+      "state": "edited",
+      "pageNum": 11
+    },
+    {
+      "id": "slide_12",
+      "state": "edited",
+      "pageNum": 12
+    },
+    {
+      "id": "slide_13",
+      "state": "edited",
+      "pageNum": 13
+    },
+    {
+      "id": "slide_14",
+      "state": "edited",
+      "pageNum": 14
+    },
+    {
+      "id": "slide_15",
+      "state": "edited",
+      "pageNum": 15
+    }
+  ],
+  "outline": [
+    {
+      "id": "slide_1",
+      "title": "觀光業的小舟",
+      "summary": "封面頁：觀光業的小舟，副標題：創業逐夢者的20年經歷與數位轉型之路，講者：蔡志昇（Michael）。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_2",
+      "title": "蔡志昇 Michael — 觀光產業的實踐者",
+      "summary": "講師資歷表：涵蓋多元國際教育背景、9項現職（包括旅保協會數位主委、渡假村總經理、旅行社負責人等）及核心專長。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_3",
+      "title": "32歲的我為什麼選擇進入觀光業？",
+      "summary": "分享進入觀光業的四個核心信念：近20年渡假村經驗、觀光市場人脈與洞察、對自己市場判斷的相信，以及家人的支持。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_4",
+      "title": "觀光業的轉折點：從傳統到數位的必然",
+      "summary": "探討觀光業在2015年前後的重大轉折，包括消費者行為改變、平台經濟興起（如旅天下與易遊網），以及加盟模式成為主流。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_5",
+      "title": "為什麼選擇旅天下？加盟的三個理由",
+      "summary": "說明2017年加盟旅天下的投資邏輯：集團背景的信任、創新的通路與產品雙軸加盟模式，以及在地化的機會。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_6",
+      "title": "為什麼同時經營易遊網？多平台策略的必然",
+      "summary": "闡述2020年加盟易遊網的戰略考量：看重其280萬會員與技術優勢，透過多平台策略實現市場覆蓋、風險分散與學習創新。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_7",
+      "title": "從旅行社到渡假村：觀光產業的全鏈條經營",
+      "summary": "說明同時經營北港溪沙八渡假村與黑爵士民宿的原因，探討如何透過全產業鏈布局提高整體利潤與提供更完整的體驗。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_8",
+      "title": "MATECH時代：行銷科技的初探",
+      "summary": "探討MATECH在觀光業的應用（如CRM系統、Line@商務應用），分享初期成效，並反思其過度依賴人工的局限性。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_9",
+      "title": "AI-MARTECH時代：智能化的必然",
+      "summary": "說明2023年後AI如何改變觀光行銷，包括客戶分群與個性化推薦、智能客服、動態定價與內容生成，並分享實際成效。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_10",
+      "title": "從效率到體驗：AI-MARTECH的深層轉變",
+      "summary": "探討AI-MARTECH如何從數據挖掘深層洞察（如生命週期分析、風險預警），並從單純行銷轉向提升整體客戶體驗。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_11",
+      "title": "20年觀光創業的五個關鍵經驗",
+      "summary": "分享五個關鍵創業經驗：相信市場判斷並驗證、多元化風險管理、與平台合作、技術為工具而人為核心，以及持續學習。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_12",
+      "title": "給台中科技大學校友的三個建議",
+      "summary": "針對校友提出三個建議：選擇產業看變化而非僅憑熱情、創業風險可管理但無法消除，以及技術改變規則但人永遠是中心。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_13",
+      "title": "觀光業的下一個十年：我的展望",
+      "summary": "展望觀光業未來的三個發展方向：體驗經濟的深化、本地化與個性化，以及可持續發展的必然。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_14",
+      "title": "開放討論：您的問題、我的經驗",
+      "summary": "Q&A互動環節，歡迎聽眾提出關於創業、產業、技術或人生選擇的問題，並提供講者的聯絡方式。",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "slide_15",
+      "title": "觀光業的小舟，永遠在航行",
+      "summary": "結語：總結20年來的航行經驗，強調不要害怕變化，並邀請大家一起探索觀光業在AI與新技術下的無限可能。",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}
