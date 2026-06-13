@@ -2,7 +2,7 @@
   "project_info": {
     "title": "觀光業的小舟",
     "created": 1781284596.029,
-    "last_updated": 1781318236.558,
+    "last_updated": 1781318740.595,
     "total_slides": 16
   },
   "slides": [
@@ -42,9 +42,14 @@
       "pageNum": 7
     },
     {
-      "id": "slide_8",
+      "id": "slide_thesis_martech",
       "state": "edited",
       "pageNum": 8
+    },
+    {
+      "id": "slide_8",
+      "state": "deleted",
+      "pageNum": -1
     },
     {
       "id": "slide_9",
@@ -131,10 +136,9 @@
       "image_plan": "Use a suitable image if needed"
     },
     {
-      "id": "slide_8",
-      "title": "MATECH時代：行銷科技的初探",
-      "summary": "探討MATECH在觀光業的應用（如CRM系統、Line@商務應用），分享初期成效，並反思其過度依賴人工的局限性。",
-      "image_plan": "Use a suitable image if needed"
+      "id": "slide_thesis_martech",
+      "title": "理論基礎：從學術研究到系統實踐",
+      "summary": "介紹論文的MARTECH六大面向與暨大櫻花祭的S-Line系統實踐成果，包含375位遊客參與及91%滿意度。"
     },
     {
       "id": "slide_9",
