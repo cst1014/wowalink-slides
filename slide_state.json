@@ -2,8 +2,8 @@
   "project_info": {
     "title": "觀光業的小舟",
     "created": 1781284596.029,
-    "last_updated": 1781318998.879,
-    "total_slides": 16
+    "last_updated": 1781319403.251,
+    "total_slides": 14
   },
   "slides": [
     {
@@ -23,28 +23,28 @@
     },
     {
       "id": "slide_4",
-      "state": "edited",
-      "pageNum": 4
+      "state": "deleted",
+      "pageNum": -1
     },
     {
       "id": "slide_5",
       "state": "edited",
-      "pageNum": 5
+      "pageNum": 4
     },
     {
       "id": "slide_6",
-      "state": "edited",
-      "pageNum": 6
+      "state": "deleted",
+      "pageNum": -1
     },
     {
       "id": "slide_7",
       "state": "edited",
-      "pageNum": 7
+      "pageNum": 5
     },
     {
       "id": "slide_thesis_martech",
       "state": "edited",
-      "pageNum": 8
+      "pageNum": 6
     },
     {
       "id": "slide_8",
@@ -54,42 +54,42 @@
     {
       "id": "slide_9",
       "state": "edited",
-      "pageNum": 9
+      "pageNum": 7
     },
     {
       "id": "slide_wowalink_saas",
       "state": "edited",
-      "pageNum": 10
+      "pageNum": 8
     },
     {
       "id": "slide_10",
       "state": "edited",
-      "pageNum": 11
+      "pageNum": 9
     },
     {
       "id": "slide_11",
       "state": "edited",
-      "pageNum": 12
+      "pageNum": 10
     },
     {
       "id": "slide_12",
       "state": "edited",
-      "pageNum": 13
+      "pageNum": 11
     },
     {
       "id": "slide_13",
       "state": "edited",
-      "pageNum": 14
+      "pageNum": 12
     },
     {
       "id": "slide_14",
       "state": "edited",
-      "pageNum": 15
+      "pageNum": 13
     },
     {
       "id": "slide_15",
       "state": "edited",
-      "pageNum": 16
+      "pageNum": 14
     }
   ],
   "outline": [
@@ -112,21 +112,9 @@
       "image_plan": "Use a suitable image if needed"
     },
     {
-      "id": "slide_4",
-      "title": "觀光業的轉折點：從傳統到數位的必然",
-      "summary": "探討觀光業在2015年前後的重大轉折，包括消費者行為改變、平台經濟興起（如旅天下與易遊網），以及加盟模式成為主流。",
-      "image_plan": "Use a suitable image if needed"
-    },
-    {
       "id": "slide_5",
       "title": "為什麼選擇旅天下？加盟的三個理由",
       "summary": "說明2017年加盟旅天下的投資邏輯：集團背景的信任、創新的通路與產品雙軸加盟模式，以及在地化的機會。",
-      "image_plan": "Use a suitable image if needed"
-    },
-    {
-      "id": "slide_6",
-      "title": "為什麼同時經營易遊網？多平台策略的必然",
-      "summary": "闡述2020年加盟易遊網的戰略考量：看重其280萬會員與技術優勢，透過多平台策略實現市場覆蓋、風險分散與學習創新。",
       "image_plan": "Use a suitable image if needed"
     },
     {
